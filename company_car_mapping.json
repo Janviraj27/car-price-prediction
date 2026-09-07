@@ -1,0 +1,125 @@
+{
+    "Audi": [
+        "other"
+    ],
+    "BMW": [
+        "other"
+    ],
+    "Chevrolet": [
+        "other",
+        "Chevrolet Beat LT",
+        "Chevrolet Beat LS"
+    ],
+    "Datsun": [
+        "Datsun Redi GO",
+        "other"
+    ],
+    "Fiat": [
+        "other"
+    ],
+    "Force": [
+        "other"
+    ],
+    "Ford": [
+        "Ford EcoSport Titanium",
+        "other",
+        "Ford EcoSport Trend"
+    ],
+    "Hindustan": [
+        "other"
+    ],
+    "Honda": [
+        "Honda City 1.5",
+        "Honda Amaze",
+        "other",
+        "Honda City"
+    ],
+    "Hyundai": [
+        "Hyundai Santro Xing",
+        "Hyundai Grand i10",
+        "Hyundai Eon",
+        "Hyundai Elite i20",
+        "Hyundai i20 Sportz",
+        "Hyundai i20 Magna",
+        "other",
+        "Hyundai i10 Magna",
+        "Hyundai Verna Fluidic",
+        "Hyundai i20 Asta",
+        "Hyundai Eon Era",
+        "Hyundai Verna 1.6"
+    ],
+    "Jaguar": [
+        "other"
+    ],
+    "Jeep": [
+        "other"
+    ],
+    "Land": [
+        "other"
+    ],
+    "Mahindra": [
+        "Mahindra Jeep CL550",
+        "other",
+        "Mahindra Scorpio S10",
+        "Mahindra Scorpio S4",
+        "Mahindra Scorpio VLX",
+        "Mahindra Quanto C8",
+        "Mahindra XUV500",
+        "Mahindra TUV300 T4"
+    ],
+    "Maruti": [
+        "Maruti Suzuki Alto",
+        "other",
+        "Maruti Suzuki Swift",
+        "Maruti Suzuki Wagon",
+        "Maruti Suzuki Baleno",
+        "Maruti Suzuki Dzire",
+        "Maruti Suzuki SX4",
+        "Maruti Suzuki Ertiga",
+        "Maruti Suzuki Eeco",
+        "Maruti Suzuki Ritz",
+        "Maruti Suzuki Zen",
+        "Maruti Suzuki Omni"
+    ],
+    "Mercedes": [
+        "other"
+    ],
+    "Mini": [
+        "Mini Cooper S"
+    ],
+    "Mitsubishi": [
+        "Mitsubishi Pajero Sport",
+        "other"
+    ],
+    "Nissan": [
+        "other"
+    ],
+    "Renault": [
+        "other",
+        "Renault Duster 85",
+        "Renault Duster"
+    ],
+    "Skoda": [
+        "other"
+    ],
+    "Tata": [
+        "Tata Indigo eCS",
+        "Tata Indica V2",
+        "Tata Indigo CS",
+        "other",
+        "Tata Sumo Gold"
+    ],
+    "Toyota": [
+        "other",
+        "Toyota Corolla Altis",
+        "Toyota Etios Liva",
+        "Toyota Innova 2.5"
+    ],
+    "Volkswagen": [
+        "other",
+        "Volkswagen Polo"
+    ],
+    "Volvo": [
+        "other"
+    ]
+}
