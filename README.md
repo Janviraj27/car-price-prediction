@@ -1,5 +1,7 @@
 # 🚗 Used Car Price Prediction
 
+[🚀 Live Demo](https://car-price-prediction-gw68b5rgqrgux4w6aappab.streamlit.app/)
+
 A machine learning project that predicts the estimated price of a used car based on its name, company, manufacturing year, kilometers driven, and fuel type.
 
 ## 📌 Project Overview
@@ -143,4 +145,4 @@ The application then returns an estimated used-car price.
 ### 1. Clone the repository
 
 ```bash
-git clone <your-github-repository-url>
+git clone https://github.com/Janviraj27/car-price-prediction.git
