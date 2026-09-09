@@ -108,6 +108,12 @@ Feature importance analysis from the Random Forest model showed that:
 - Several company and car-name categories also contributed strongly.
 - Kilometers driven provided additional predictive information.
 
+### Car Price Predictor
+![Car Price Predictor](app-interface.png)
+
+### Prediction Result
+![Prediction Result](prediction-result.png)
+
 ## 🌐 Streamlit Application
 
 A Streamlit web application was developed to allow users to enter:
